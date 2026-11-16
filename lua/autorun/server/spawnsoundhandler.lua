@@ -20,4 +20,8 @@ hook.Add("PlayerSpawnedProp", "graveSound", function(ply, model, ent)
     end
 end)
 
---@xandlwithaz
+--[[
+@xandlwithaz
+https://github.com/xandlwithaz/scarier-gravestones
+https://steamcommunity.com/sharedfiles/filedetails/?id=3836405258
+]]
